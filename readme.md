@@ -27,13 +27,6 @@ IT系ノージャンル
 ---
 ## 2011年
 
-東日本大震災
-
-![](image/higashinihon-daishinsai.gif)
-
----
-## 2011年
-
 auからiPhone 4sが出た年
 
 ![](image/auxiphone.jpg)
